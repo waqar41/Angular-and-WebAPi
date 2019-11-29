@@ -1,0 +1,14 @@
+C:\Users\hassan\Desktop\Aventia\API-Test\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.deps.json
+C:\Users\hassan\Desktop\Aventia\API-Test\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.json
+C:\Users\hassan\Desktop\Aventia\API-Test\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.dev.json
+C:\Users\hassan\Desktop\Aventia\API-Test\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.dll
+C:\Users\hassan\Desktop\Aventia\API-Test\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.csprojAssemblyReference.cache
+C:\Users\hassan\Desktop\Aventia\API-Test\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\hassan\Desktop\Aventia\API-Test\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cache
+C:\Users\hassan\Desktop\Aventia\API-Test\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cs
+C:\Users\hassan\Desktop\Aventia\API-Test\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfoInputs.cache
+C:\Users\hassan\Desktop\Aventia\API-Test\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfo.cs
+C:\Users\hassan\Desktop\Aventia\API-Test\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\hassan\Desktop\Aventia\API-Test\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.pdb
+C:\Users\hassan\Desktop\Aventia\API-Test\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.dll
+C:\Users\hassan\Desktop\Aventia\API-Test\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.pdb
